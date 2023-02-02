@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Dados
+**/Dados/
+Modulo_1/*/dados/
